@@ -17,7 +17,7 @@ Development of classification models to categorize data into discrete classes.
 Assessment of model accuracy and comparison of different approaches.
 The repository provides a structured approach to building and evaluating machine learning models, showcasing best practices for reproducibility and performance optimization.
 
-==============================
+
 Project Organization
 ------------
 
