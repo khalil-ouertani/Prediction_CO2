@@ -1,8 +1,23 @@
-Project Name
+CO2 Emission by vehicles
 ==============================
+Project Overview
+==============================
+This project focuses on machine learning workflows, including data preprocessing, feature engineering, and modeling. It is divided into three main components:
 
-This repo is a Starting Pack for DS projects. You can rearrange the structure to make it fits your project.
+**Data Exploration and Preprocessing:**
+Exploration of datasets to identify trends, distributions, and anomalies.
+Application of preprocessing techniques such as missing value handling, encoding, scaling, and feature selection.
 
+**Regression Modeling:**
+Implementation and evaluation of regression models to predict continuous target variables.
+Includes hyperparameter tuning and performance metrics analysis.
+
+**Classification Modeling:**
+Development of classification models to categorize data into discrete classes.
+Assessment of model accuracy and comparison of different approaches.
+The repository provides a structured approach to building and evaluating machine learning models, showcasing best practices for reproducibility and performance optimization.
+
+==============================
 Project Organization
 ------------
 
